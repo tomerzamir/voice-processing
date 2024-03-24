@@ -1,18 +1,15 @@
 ![image](https://github.com/tomerzamir/voice-processing/assets/98778457/ac70c8d8-f7fd-4566-a9d1-53d5d46983fe)
 
-In this study, we aim to explore the potential of using machine learning to analyze changes in the voice that may be associated with PD. 
-By doing so, we hope to build a model that can accurately diagnose the disease. 
+
+In this study, we aimed to explore the potential of using machine learning to analyze changes in the voice that may be associated with PD. 
+By doing so, we hoped to build a model that could accurately diagnose the disease.
 
 Research Questions:
 
-* can machine learning be used to accurately diagnose Parkinson's disease based on changes in the voice?
-* Which acoustic features does PD affect the most?
-* What is the best method to diagnose PD?
-
-
-We propose that by analyzing features of the voice, we can build a model to accurately diagnose PD. 
-We expect that the model will be able to identify relevant patterns in the voice data that are indicative of PD and differentiate between individuals with and without the disease.
-
+Could machine learning be used to accurately diagnose Parkinson's disease based on changes in the voice?
+Which acoustic features did PD affect the most?
+What was the best method to diagnose PD?
+We proposed that by analyzing features of the voice, we could build a model to accurately diagnose PD. We expected that the model would be able to identify relevant patterns in the voice data that were indicative of PD and differentiate between individuals with and without the disease.
 
 An overview and bibliography for the project can be found in the presentation file.
 
